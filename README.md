@@ -40,6 +40,19 @@ Deixar mais personalizado com assunto e casos do dia a dia da vida de um program
 Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto.
 
 ### ✍️Tirinha aleatória
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+    <source media="(prefers-color-scheme: light)" 
+	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+    <img 
+	src="https://github-readme-devlife.000webhostapp.com/random/" />
+  </picture>
+</p>
+<br />
+
+
 ```html
 <!-- HTML -->
 <p align="center">
