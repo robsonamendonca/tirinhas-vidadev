@@ -3,7 +3,7 @@
 ___
 
 <p align="center">
-  <img src="https://github-readme-devlife.000webhostapp.com/img/logo-site-branco.svg" width="300" heigth="300">
+  <img src="https://tirinhas-vidadev.hdev.com.br/img/logo-site-branco.svg" width="300" heigth="300">
 </p>
 
 
@@ -25,7 +25,7 @@ ___
 
 ___
 
-<img src="https://github-readme-devlife.000webhostapp.com/img/tirinha-tecnoupdate2022.png" width="1200">
+<img src="https://tirinhas-vidadev.hdev.com.br/img/tirinha-tecnoupdate2022.png" width="1200">
 
 ## :information_source: Sobre
 
@@ -43,11 +43,11 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
     <source media="(prefers-color-scheme: light)" 
-	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+	srcset="https://tirinhas-vidadev.hdev.com.br/random//">
     <img 
-	src="https://github-readme-devlife.000webhostapp.com/random/" />
+	src="https://tirinhas-vidadev.hdev.com.br/random/" />
   </picture>
 </p>
 <br />
@@ -58,11 +58,11 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
     <source media="(prefers-color-scheme: light)" 
-	srcset="https://github-readme-devlife.000webhostapp.com/random/">
+	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
     <img 
-	src="https://github-readme-devlife.000webhostapp.com/random/" />
+	src="https://tirinhas-vidadev.hdev.com.br/random/" />
   </picture>
 </p>
 <br />
