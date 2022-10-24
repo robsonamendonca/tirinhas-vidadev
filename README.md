@@ -41,14 +41,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 
 ### ✍️Tirinha aleatória
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
-    <source media="(prefers-color-scheme: light)" 
-	srcset="https://tirinhas-vidadev.hdev.com.br/random//">
-    <img 
-	src="https://tirinhas-vidadev.hdev.com.br/random/" />
-  </picture>
+   <embed  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
 </p>
 <br />
 
@@ -56,14 +49,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 ```html
 <!-- HTML -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
-    <source media="(prefers-color-scheme: light)" 
-	srcset="https://tirinhas-vidadev.hdev.com.br/random/">
-    <img 
-	src="https://tirinhas-vidadev.hdev.com.br/random/" />
-  </picture>
+   <embed  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
 </p>
 <br />
 ```
