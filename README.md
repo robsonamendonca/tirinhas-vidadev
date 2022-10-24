@@ -40,8 +40,9 @@ Deixar mais personalizado com assunto e casos do dia a dia da vida de um program
 Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto.
 
 ### ✍️Tirinha aleatória
+
 <p align="center">
-   <embed  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
+   <img  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
 </p>
 <br />
 
@@ -49,7 +50,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 ```html
 <!-- HTML -->
 <p align="center">
-   <embed  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
+   <img  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
 </p>
 <br />
 ```
