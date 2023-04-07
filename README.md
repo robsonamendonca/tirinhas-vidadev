@@ -50,7 +50,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 ```html
 <!-- HTML -->
 <p align="center">
-   <img  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
+   <img  height="450px" width="605px" src="https://hdev.com.br/tirinhas-vidadev/random/?attr=txt" />
 </p>
 <br />
 ```
