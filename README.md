@@ -42,7 +42,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 ### ✍️Tirinha aleatória
 
 <p align="center">
-   <img  height="450px" width="605px" src="https://tirinhas-vidadev.hdev.com.br/random/" />
+   <img  height="100%" width="605px" src="https://hdev.com.br/tirinhas-vidadev/random/?attr=txt" />
 </p>
 <br />
 
@@ -50,7 +50,7 @@ Copiar o código de exemplo e colocar no arquivo README do seu perfil ou projeto
 ```html
 <!-- HTML -->
 <p align="center">
-   <img  height="450px" width="605px" src="https://hdev.com.br/tirinhas-vidadev/random/?attr=txt" />
+   <img  height="100%" width="605px" src="https://hdev.com.br/tirinhas-vidadev/random/?attr=txt" />
 </p>
 <br />
 ```
@@ -65,3 +65,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## Licença 
 
 Esse projeto está sob a licença GLP. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+##### <p align="center"> <strong> < Feito por <a href="https://github.com/robsonamendonca"> @robsonamendonca  </a> /> </strong>  :wave:
+
+
+> Caso achem útil esta solução, peço por favor um ⭐️ nos repositórios apoiando. Fica também o convite para que vocês me sigam aqui no **GitHub**!
+
+
